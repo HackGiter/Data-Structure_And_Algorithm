@@ -1,0 +1,8 @@
+﻿  MAIN.cpp
+F:\GitHub\Data-Structure_And_Algorithm\WorkSpace\CPP\MAIN\MAIN\SLinklist.h(8,1): warning C4005: “INITSIZE”: 宏重定义
+F:\GitHub\Data-Structure_And_Algorithm\WorkSpace\CPP\MAIN\MAIN\Sqdlist.h(8): message : 参见“INITSIZE”的前一个定义
+F:\GitHub\Data-Structure_And_Algorithm\WorkSpace\CPP\MAIN\MAIN\DSqQueue.h(8,1): warning C4005: “MAXSIZE”: 宏重定义
+F:\GitHub\Data-Structure_And_Algorithm\WorkSpace\CPP\MAIN\MAIN\Sqslist.h(7): message : 参见“MAXSIZE”的前一个定义
+F:\GitHub\Data-Structure_And_Algorithm\WorkSpace\CPP\MAIN\MAIN\SymMat.h(9,1): warning C4005: “COORD”: 宏重定义
+F:\GitHub\Data-Structure_And_Algorithm\WorkSpace\CPP\MAIN\MAIN\AdjaMat.h(8): message : 参见“COORD”的前一个定义
+  MAIN.vcxproj -> F:\GitHub\Data-Structure_And_Algorithm\WorkSpace\CPP\MAIN\x64\Debug\MAIN.exe

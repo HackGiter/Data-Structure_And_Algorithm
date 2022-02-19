@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="头文件\list">
+      <UniqueIdentifier>{1890266b-f818-4214-9291-0da6f8b78e38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\stack">
+      <UniqueIdentifier>{245172d2-058a-4d91-a389-e7304f5585ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\queue">
+      <UniqueIdentifier>{5a470206-2b61-40c4-a593-62fad5b46e42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\matrix">
+      <UniqueIdentifier>{a5670538-be2c-4145-980c-abbcf6cf4452}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\string">
+      <UniqueIdentifier>{a745fa84-07dd-4962-b85d-b7a9bbdf1dc3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\tree">
+      <UniqueIdentifier>{56982e27-9757-4640-a558-4094f23cc3ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\sort">
+      <UniqueIdentifier>{de61fd66-53f9-43a8-b5af-2ec6e3aca25c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\graph">
+      <UniqueIdentifier>{eb0244a5-0c90-4419-b181-90e50c44547e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MAIN.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Sqslist.h">
+      <Filter>头文件\list</Filter>
+    </ClInclude>
+    <ClInclude Include="Sqdlist.h">
+      <Filter>头文件\list</Filter>
+    </ClInclude>
+    <ClInclude Include="Linklist.h">
+      <Filter>头文件\list</Filter>
+    </ClInclude>
+    <ClInclude Include="DLinklist.h">
+      <Filter>头文件\list</Filter>
+    </ClInclude>
+    <ClInclude Include="CLinklist.h">
+      <Filter>头文件\list</Filter>
+    </ClInclude>
+    <ClInclude Include="CDLinklist.h">
+      <Filter>头文件\list</Filter>
+    </ClInclude>
+    <ClInclude Include="SLinklist.h">
+      <Filter>头文件\list</Filter>
+    </ClInclude>
+    <ClInclude Include="SqStack.h">
+      <Filter>头文件\stack</Filter>
+    </ClInclude>
+    <ClInclude Include="DatStruc_Algori.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SqQueue.h">
+      <Filter>头文件\queue</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkQueue.h">
+      <Filter>头文件\queue</Filter>
+    </ClInclude>
+    <ClInclude Include="DSqQueue.h">
+      <Filter>头文件\queue</Filter>
+    </ClInclude>
+    <ClInclude Include="SymMat.h">
+      <Filter>头文件\matrix</Filter>
+    </ClInclude>
+    <ClInclude Include="SparseMat.h">
+      <Filter>头文件\matrix</Filter>
+    </ClInclude>
+    <ClInclude Include="HString.h">
+      <Filter>头文件\string</Filter>
+    </ClInclude>
+    <ClInclude Include="SqBinTree.h">
+      <Filter>头文件\tree</Filter>
+    </ClInclude>
+    <ClInclude Include="BiTree.h">
+      <Filter>头文件\tree</Filter>
+    </ClInclude>
+    <ClInclude Include="ThreadTree.h">
+      <Filter>头文件\tree</Filter>
+    </ClInclude>
+    <ClInclude Include="CSTree.h">
+      <Filter>头文件\tree</Filter>
+    </ClInclude>
+    <ClInclude Include="BSTree.h">
+      <Filter>头文件\tree</Filter>
+    </ClInclude>
+    <ClInclude Include="AVLTree.h">
+      <Filter>头文件\tree</Filter>
+    </ClInclude>
+    <ClInclude Include="MathFunc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HuffmanTree.h">
+      <Filter>头文件\tree</Filter>
+    </ClInclude>
+    <ClInclude Include="Queue.h">
+      <Filter>头文件\queue</Filter>
+    </ClInclude>
+    <ClInclude Include="Heap.h">
+      <Filter>头文件\sort</Filter>
+    </ClInclude>
+    <ClInclude Include="OrthList.h">
+      <Filter>头文件\graph</Filter>
+    </ClInclude>
+    <ClInclude Include="AdjList.h">
+      <Filter>头文件\graph</Filter>
+    </ClInclude>
+    <ClInclude Include="AdjaMat.h">
+      <Filter>头文件\graph</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
